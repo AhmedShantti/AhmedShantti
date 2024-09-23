@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Ahmed 👋
+
+A Brilliant computer science student with a passion for learning and development, interested in coding and building software especially web development field 
 
 
 - 👨‍💻 I’m currently learning Front End development
